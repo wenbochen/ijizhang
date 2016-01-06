@@ -14,5 +14,6 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		WenboLog.info("i am a test branch");
+		WenboLog.info("don't commit");
 	}
 }
